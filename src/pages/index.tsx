@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="bg-gray-100 h-screen overflow-hidden">
        <Head>
-        <title>Home | ABA Dashboard</title>
+        <title>Home | KPI Dashboard</title>
         <link rel="icon" href="/icon/icon.png" />
       </Head>
       <main className="flex">
